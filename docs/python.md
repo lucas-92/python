@@ -17,3 +17,8 @@ Saber qual python está sendo utilizado:
 ```
 which python
 ```
+
+Exportar as variáveis de ambiente (env) para o python3 rodar o script:
+```
+#!/usr/bin/env python3
+```
