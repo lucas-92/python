@@ -12,3 +12,8 @@ Executar módulos (site = detalhes de instalação)
 ```
 python3 -m site
 ```
+
+Saber qual python está sendo utilizado:
+```
+which python
+```
