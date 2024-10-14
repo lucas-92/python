@@ -8,7 +8,7 @@ Excutar comando python:
 python3 -c
 ```
 
-Executar módulos (site = detalhes de instalaçã)
+Executar módulos (site = detalhes de instalação)
 ```
 python3 -m site
 ```
