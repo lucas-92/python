@@ -25,7 +25,7 @@ current_language = os.getenv("LANG", "pt_BR")[:5]
 msg = "Olá, Mundo!"
 
 if current_language == "en_US":
-    msg = "Hello, World!"
+    msg = "Hello World!"
 elif current_language == "it_IT":
     msg = "Ciao, Mondo"
 elif current_language == "es_SP":
